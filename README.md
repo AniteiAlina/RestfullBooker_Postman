@@ -27,7 +27,7 @@ This repository contains API tests for https://restful-booker.herokuapp.com - an
 ## Test results
 ![Screenshot 2023-05-25 at 4 30 12 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/db776348-eff7-422c-8ced-61f1ff0f6e35)
 
-![Screenshot 2023-05-25 at 4 26 43 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/04121148-ae26-4507-aef0-d172c7dbb9af)
+<img width="1268" alt="Screenshot 2023-05-25 at 4 33 06 PM" src="https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/bb2c7a6a-8a8b-4bda-bc94-b4c41edd34c3">
 
 ![Screenshot 2023-05-25 at 4 27 33 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/0ae4c25f-06e7-4a8c-9fbd-8dda2abcbb65)
 
