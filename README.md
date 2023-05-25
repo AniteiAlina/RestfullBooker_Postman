@@ -23,3 +23,10 @@ This repository contains API tests for https://restful-booker.herokuapp.com - an
 * DEL Delete
 * DEL Delete Wrong Id
 * GET Ping
+
+## Test results
+![Screenshot 2023-05-25 at 4 25 11 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/4428686d-cbbd-4e8b-921e-7f80cb4e2657)
+![Screenshot 2023-05-25 at 4 26 43 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/04121148-ae26-4507-aef0-d172c7dbb9af)
+4
+![Screenshot 2023-05-25 at 4 27 33 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/0ae4c25f-06e7-4a8c-9fbd-8dda2abcbb65)
+![Screenshot 2023-05-25 at 4 27 58 PM](https://github.com/AniteiAlina/RestfullBooker_Postman/assets/131695035/22b1a976-7bc9-4ee6-9e78-d81ee2bf828e)
